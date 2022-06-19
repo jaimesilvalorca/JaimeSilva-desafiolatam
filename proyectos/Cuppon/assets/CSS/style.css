@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('../imgs/controllers-nintendo-consoles-keyboards-computer-mice-mixing-consoles-playstation-xbox-wii-corded-game-pad-game-controller-doodle-wallpaper-preview.jpg');
+    height: 350px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: black;
+
+
+}
+
+.text-header-h {
+    color: white;
+    font-size: 100px;
+    text-align: left;
+    padding: 20px 30px;
+}
+
+.text-header-p {
+    color: white;
+    font-size: 50px;
+    text-align: left;
+    padding: 10px 30px;
+}
+
+main{
+    padding: 50px 0px;
+    background-color: white
+}
+
+.center{
+    margin:auto;
+}
+
+td {
+    height: 300px;
+    width: 280px;
+    padding: 10px ;
+    border: 1px solid gray;
+}
+
+td img {
+    width: 100%;
+    height: 100%;
+}
+
+td p {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+.text-footer {
+    padding: 20px;  
+    color: white;
+    font-size: 20px;
+}
